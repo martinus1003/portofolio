@@ -3,7 +3,7 @@ import { Grid, Cell, List, ListItem, ListItemContent } from "react-mdl";
 
 const AboutMe = () => {
   return (
-    <div className="contact-body">
+    <div className="aboutme-body">
       <Grid className="contact-grid">
         <Cell col={6}>
           <h2>Martinus Budiman</h2>
